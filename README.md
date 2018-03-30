@@ -1,1 +1,1 @@
-# pyhtonLearn
+本仓库根据莫烦python教程缩写。
